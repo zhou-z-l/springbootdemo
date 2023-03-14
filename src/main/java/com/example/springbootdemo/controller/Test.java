@@ -11,7 +11,7 @@ public class Test {
     @RequestMapping(value="/hello")
     @ResponseBody
     public String hello(){
-        return "hello";
+        return "nice";
 //        System.out.println("hello");
     }
 
