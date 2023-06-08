@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="my_songT">
+        <normal>
+            <ttf>stsong/simsun002.ttf</ttf>
+            <svg>stsong/simsun002.ttf</svg>
+            <eot>stsong/simsun002.ttf</eot>
+            <woff>stsong/simsun002.ttf</woff>
+        </normal>
+        <bold>stsong/simsun002.ttf</bold>
+        <italic>stsong/simsun002.ttf</italic>
+        <boldItalic>stsong/simsun002.ttf</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts/>
+    </fontFamily>
+</fontFamilies>
